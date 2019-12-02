@@ -10,3 +10,4 @@ Content/StarterContent/HDRI
 *.suo
 *.VC.opendb
 *.sln
+*.ipch
